@@ -1,10 +1,10 @@
-package com.spark.dao.impl;
+package com.spark.web.dao.impl;
 
 
 
-import com.spark.dao.ITaskDAO;
-import com.spark.domain.Task;
-import com.spark.jdbc.JDBCHelper;
+import com.spark.web.dao.ITaskDAO;
+import com.spark.web.domain.Task;
+import com.spark.web.jdbc.JDBCHelper;
 
 import java.sql.ResultSet;
 

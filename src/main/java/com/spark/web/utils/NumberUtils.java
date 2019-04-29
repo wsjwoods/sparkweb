@@ -1,4 +1,4 @@
-package com.spark.utils;
+package com.spark.web.utils;
 
 import java.math.BigDecimal;
 

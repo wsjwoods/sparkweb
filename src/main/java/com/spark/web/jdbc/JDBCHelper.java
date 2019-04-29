@@ -1,9 +1,9 @@
-package com.spark.jdbc;
+package com.spark.web.jdbc;
 
 
 
-import com.spark.conf.ConfigurationManager;
-import com.spark.constant.Constants;
+import com.spark.web.conf.ConfigurationManager;
+import com.spark.web.constant.Constants;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

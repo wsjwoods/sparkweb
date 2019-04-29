@@ -1,4 +1,4 @@
-package com.spark.jdbc;
+package com.spark.web.jdbc;
 
 import java.util.ArrayList;
 import java.util.List;

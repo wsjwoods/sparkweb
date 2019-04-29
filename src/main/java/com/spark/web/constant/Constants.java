@@ -1,4 +1,4 @@
-package com.spark.constant;
+package com.spark.web.constant;
 
 /**
   * 常量接口

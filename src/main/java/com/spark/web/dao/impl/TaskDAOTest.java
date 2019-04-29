@@ -1,8 +1,8 @@
-package com.spark.dao.impl;
+package com.spark.web.dao.impl;
 
 
-import com.spark.dao.ITaskDAO;
-import com.spark.domain.Task;
+import com.spark.web.dao.ITaskDAO;
+import com.spark.web.domain.Task;
 
 /**
  * 任务管理DAO测试类

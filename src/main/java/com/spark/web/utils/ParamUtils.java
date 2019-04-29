@@ -1,4 +1,4 @@
-package com.spark.utils;
+package com.spark.web.utils;
 
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;

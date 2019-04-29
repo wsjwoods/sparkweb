@@ -1,7 +1,7 @@
-package com.spark.dao.impl;
+package com.spark.web.dao.impl;
 
 
-import com.spark.dao.ITaskDAO;
+import com.spark.web.dao.ITaskDAO;
 
 /**
  * DAO工厂类

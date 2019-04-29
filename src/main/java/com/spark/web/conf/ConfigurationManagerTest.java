@@ -1,4 +1,4 @@
-package com.spark.conf;
+package com.spark.web.conf;
 
 
 /**

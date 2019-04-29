@@ -1,7 +1,7 @@
-package com.spark.dao;
+package com.spark.web.dao;
 
 
-import com.spark.domain.Task;
+import com.spark.web.domain.Task;
 
 /**
  * 任务管理DAO接口

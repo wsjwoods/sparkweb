@@ -1,4 +1,4 @@
-package com.spark.utils;
+package com.spark.web.utils;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

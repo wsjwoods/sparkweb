@@ -1,6 +1,6 @@
-package com.spark.conf;
+package com.spark.web.conf;
 
-import com.spark.constant.Constants;
+import com.spark.web.constant.Constants;
 
 import java.io.InputStream;
 import java.util.Properties;

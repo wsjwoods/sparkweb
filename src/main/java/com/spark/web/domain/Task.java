@@ -1,4 +1,4 @@
-package com.spark.domain;
+package com.spark.web.domain;
 
 import java.io.Serializable;
 
